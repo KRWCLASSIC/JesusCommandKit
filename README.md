@@ -1,2 +1,1 @@
-# JesusCommandKit
-Portal 2 Command Kit
+# JesusCommandKit (JCK) for Portal 2
