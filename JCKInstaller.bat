@@ -1,5 +1,4 @@
 @echo off
-@echo off
 :top
 title Main Menu
 chcp 65001
